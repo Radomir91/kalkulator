@@ -1,0 +1,23 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benedikt71/Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benedikt71/Calculator/issues"
+  },
+  "homepage": "https://github.com/Benedikt71/Calculator#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
